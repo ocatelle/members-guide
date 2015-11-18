@@ -1,0 +1,4 @@
+[submodule "rules"]
+	path = rules
+	url = git@github.com:NottingHack/rules.git
+	branch = rtd-draft

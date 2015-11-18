@@ -22,7 +22,7 @@ Contents:
    online
    organisation
    events
-   rules
+   Hackspace Rules <rules/index>
    health-and-safety
    children
    resources
@@ -49,4 +49,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
